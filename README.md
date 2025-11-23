@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a Systems Engineer and Full-Stack Developer with hands-on experience in infrastructure operations, managed services, and cloud environments, primarily using AWS. My technical background spans on-premise data center troubleshooting, remote server management across Windows and Linux systems, and IoT application development. Currently expanding my expertise in cybersecurity specifically penetration testing and system hardening.
 
 I am committed to delivering dependable results in systems engineering, software development, and technical support roles.

@@ -31,7 +31,7 @@ I am committed to delivering reliable, scalable, and secure solutions across sys
 
 ---
 
-### **Coursera – IBM Cybersecurity Analyst Specialization**  
+### **Coursera – Google Cybersecurity Specialization**  
 [![Coursera Cert](https://img.shields.io/badge/📘%20View%20Coursera%20Specialization%20Certificate-blue?style=for-the-badge)](https://www.coursera.org/account/accomplishments/specialization/Z338ALVMA4VW)
 
 ---

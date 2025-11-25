@@ -22,8 +22,7 @@ I am committed to delivering reliable, scalable, and secure solutions across sys
 ---
 
 # 🛡 TryHackMe Profile  
-[![TryHackMeProfile]<img src="https://tryhackme-badges.s3.amazonaws.com/Alph4r1us.png" alt="TryHackMe Badge" />](https://tryhackme.com/p/Alph4r1us)
-
+[**![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Alph4r1us.png)**](https://tryhackme.com/p/Alph4r1us)
 ---
 
 # 🎓 Certifications

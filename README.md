@@ -14,18 +14,18 @@ I am committed to delivering reliable, scalable, and secure solutions across sys
 
 ---
 
-## 🌐 Socials  
+## Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jcabodil)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alph4r1us)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jcabodil.personal@gmail.com)  
 
 ---
 
-# 🛡 TryHackMe Profile  
+# TryHackMe Profile  
 [**![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Alph4r1us.png)**](https://tryhackme.com/p/Alph4r1us)
 ---
 
-# 🎓 Certifications
+# Certifications
 
 ### **TryHackMe Certificate – Complete Beginner Learning Path**  
 [![TryHackMe Certificate](https://img.shields.io/badge/📄%20View%20TryHackMe%20Certificate-red?style=for-the-badge)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OAE9SM5B30.pdf)
@@ -37,7 +37,7 @@ I am committed to delivering reliable, scalable, and secure solutions across sys
 
 ---
 
-# 💻 Tech Stack  
+# Tech Stack  
 
 ### **Languages & Scripting**
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -77,19 +77,19 @@ I am committed to delivering reliable, scalable, and secure solutions across sys
 
 ---
 
-# 📊 GitHub Stats  
+# GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=judecabodil22&theme=dark&hide_border=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=judecabodil22&theme=dark&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=judecabodil22&theme=dark&hide_border=true&layout=compact)
 
 ---
 
-### ✍️ Random Dev Quote  
+### Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-### 🔝 Top Contributed Repo  
+### Top Contributed Repo  
 ![](https://github-contributor-stats.vercel.app/api?username=judecabodil22&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
